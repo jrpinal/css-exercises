@@ -1,4 +1,5 @@
-.odd {
+.odd,
+.cooler {
     color:#000000;
     background-color:#dc9090;
     font-family: Verdana, "DejaVu Sans", sans-serif;
@@ -7,4 +8,8 @@
 #blue {
     color:#195ae6;
     font-size:36px
+}
+
+.cooler {
+    font-size: 24px;
 }
