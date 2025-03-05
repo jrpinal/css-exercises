@@ -37,6 +37,7 @@ body {
 .second-container {
     display: flex;
     margin-left: auto;
+    align-items: center;
 }
 
 button {
