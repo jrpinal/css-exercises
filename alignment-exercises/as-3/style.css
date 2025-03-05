@@ -18,6 +18,12 @@ body {
   padding: 8px;
 }
 
+.second-container {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
@@ -32,12 +38,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-}
-
-.second-container {
-    display: flex;
-    margin-left: auto;
-    align-items: center;
 }
 
 button {
