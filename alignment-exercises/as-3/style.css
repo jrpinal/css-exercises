@@ -32,6 +32,11 @@ body {
   font-style: italic;
 }
 
+.second-container {
+    display: flex;
+    margin-left: auto;
+}
+
 button {
   border: none;
   border-radius: 8px;
