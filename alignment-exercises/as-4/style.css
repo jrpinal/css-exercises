@@ -17,13 +17,12 @@ body {
 
   .plants {
     display: flex;
-    gap: 52px;
+    margin: 52px;
     justify-content: center;
   }
 
   .text {
     display: flex;
-    width: 200px;
   }
 
   /* do not edit this footer */
