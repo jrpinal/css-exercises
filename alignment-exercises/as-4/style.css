@@ -23,6 +23,7 @@ body {
 
   .barberry,.chilli,.pepper,.saffron {
     margin: 0 52px;
+    width: 200px;
   }
 
   .text {
