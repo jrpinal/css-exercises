@@ -64,6 +64,13 @@ body {
   margin-left: auto;
 }
 
+.second-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 450px;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
