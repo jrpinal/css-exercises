@@ -25,6 +25,7 @@ body {
 
 .container {
   display: flex;
+  gap: 15px;
 }
 .header {
   display: flex;
@@ -46,6 +47,9 @@ body {
 }
 
 .close-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background: #eee;
   border-radius: 50%;
   color: #888;
@@ -55,6 +59,7 @@ body {
   width: 24px;
   border: 1px solid #eee;
   padding: 0;
+  margin-left: auto;
 }
 
 button {
