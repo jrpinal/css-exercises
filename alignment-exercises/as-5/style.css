@@ -28,6 +28,9 @@ body {
 }
 
 .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: royalblue;
   font-size: 26px;
   font-weight: 700;
