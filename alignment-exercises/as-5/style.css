@@ -23,12 +23,8 @@ body {
   padding: 15px;
 }
 
-.header {
-    display: flex;
-    justify-content: center;
-    font-weight: 700;
-    font-size: 20px;
-
+.container {
+  display: flex;
 }
 
 .icon {
@@ -39,9 +35,6 @@ body {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .close-button {
@@ -52,9 +45,6 @@ body {
   font-size: 16px;
   height: 24px;
   width: 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   border: 1px solid #eee;
   padding: 0;
 }
