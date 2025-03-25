@@ -64,6 +64,13 @@ body {
   margin-left: auto;
 }
 
+.text {
+  display: flex;
+  margin-left: 55px;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
 .buttons {
   display: flex;
   gap: 5px;
