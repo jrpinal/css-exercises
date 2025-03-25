@@ -64,6 +64,12 @@ body {
   margin-left: auto;
 }
 
+.buttons {
+  display: flex;
+  gap: 5px;
+  margin-left: 55px;
+}
+
 button {
   cursor: pointer;
   padding: 8px 16px;
